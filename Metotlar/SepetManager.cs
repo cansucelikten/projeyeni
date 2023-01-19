@@ -11,7 +11,7 @@ namespace Metotlar
         public void Ekle(Urun urun)
         {
 
-            Console.WriteLine("Tebrikler. Sepete eklendi! " + "/" +  urun.Adi + "/"+ urun.Aciklama + "/" +
+            Console.WriteLine("Tebrikler. Sepete eklendi!  " + "/" +  urun.Adi + "/"+ urun.Aciklama + "/" +
                 "7" + urun.Fiyati);
         }
 
