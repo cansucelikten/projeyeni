@@ -35,7 +35,7 @@ namespace projeyeni
             }
             else
             {
-                Console.WriteLine("Giriş yap butonu");
+                Console.WriteLine("Giriş yap butonu ");
             }
 
             Console.WriteLine(kategoriEtiketi);
